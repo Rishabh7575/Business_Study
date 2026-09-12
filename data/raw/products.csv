@@ -1,0 +1,181 @@
+prod_id,prod_name,category,brand,mrp,cost_price
+PRD_0001,Roadster Men Western Series 1,Men Western,Roadster,3100.0,1481.52
+PRD_0002,Roadster Men Western Series 2,Men Western,Roadster,1630.0,849.55
+PRD_0003,Roadster Men Western Series 3,Men Western,Roadster,2390.0,1084.85
+PRD_0004,Roadster Men Western Series 4,Men Western,Roadster,1730.0,869.03
+PRD_0005,Roadster Men Western Series 5,Men Western,Roadster,2930.0,1429.18
+PRD_0006,Roadster Men Western Series 6,Men Western,Roadster,3190.0,1355.64
+PRD_0007,HRX Men Western Series 1,Men Western,HRX,1820.0,819.32
+PRD_0008,HRX Men Western Series 2,Men Western,HRX,1460.0,615.71
+PRD_0009,HRX Men Western Series 3,Men Western,HRX,2450.0,1254.99
+PRD_0010,HRX Men Western Series 4,Men Western,HRX,1810.0,989.92
+PRD_0011,HRX Men Western Series 5,Men Western,HRX,3080.0,1520.13
+PRD_0012,HRX Men Western Series 6,Men Western,HRX,1200.0,648.91
+PRD_0013,Levi's Men Western Series 1,Men Western,Levi's,2980.0,1347.84
+PRD_0014,Levi's Men Western Series 2,Men Western,Levi's,1380.0,637.52
+PRD_0015,Levi's Men Western Series 3,Men Western,Levi's,2810.0,1375.3
+PRD_0016,Levi's Men Western Series 4,Men Western,Levi's,1540.0,690.76
+PRD_0017,Levi's Men Western Series 5,Men Western,Levi's,1330.0,689.95
+PRD_0018,Levi's Men Western Series 6,Men Western,Levi's,1520.0,691.13
+PRD_0019,Wrangler Men Western Series 1,Men Western,Wrangler,1800.0,875.5
+PRD_0020,Wrangler Men Western Series 2,Men Western,Wrangler,1870.0,927.63
+PRD_0021,Wrangler Men Western Series 3,Men Western,Wrangler,1560.0,839.85
+PRD_0022,Wrangler Men Western Series 4,Men Western,Wrangler,2800.0,1494.75
+PRD_0023,Wrangler Men Western Series 5,Men Western,Wrangler,2420.0,1145.42
+PRD_0024,Wrangler Men Western Series 6,Men Western,Wrangler,1170.0,639.91
+PRD_0025,Tommy Hilfiger Men Western Series 1,Men Western,Tommy Hilfiger,2370.0,1106.82
+PRD_0026,Tommy Hilfiger Men Western Series 2,Men Western,Tommy Hilfiger,2020.0,1019.5
+PRD_0027,Tommy Hilfiger Men Western Series 3,Men Western,Tommy Hilfiger,940.0,454.28
+PRD_0028,Tommy Hilfiger Men Western Series 4,Men Western,Tommy Hilfiger,2880.0,1304.06
+PRD_0029,Tommy Hilfiger Men Western Series 5,Men Western,Tommy Hilfiger,1130.0,570.65
+PRD_0030,Tommy Hilfiger Men Western Series 6,Men Western,Tommy Hilfiger,3020.0,1652.42
+PRD_0031,DressBerry Women Western Series 1,Women Western,DressBerry,860.0,363.04
+PRD_0032,DressBerry Women Western Series 2,Women Western,DressBerry,2410.0,1182.23
+PRD_0033,DressBerry Women Western Series 3,Women Western,DressBerry,2960.0,1296.75
+PRD_0034,DressBerry Women Western Series 4,Women Western,DressBerry,1770.0,757.68
+PRD_0035,DressBerry Women Western Series 5,Women Western,DressBerry,870.0,444.13
+PRD_0036,DressBerry Women Western Series 6,Women Western,DressBerry,1970.0,869.83
+PRD_0037,Mast & Harbour Women Western Series 1,Women Western,Mast & Harbour,1120.0,603.32
+PRD_0038,Mast & Harbour Women Western Series 2,Women Western,Mast & Harbour,2080.0,1062.9
+PRD_0039,Mast & Harbour Women Western Series 3,Women Western,Mast & Harbour,950.0,457.78
+PRD_0040,Mast & Harbour Women Western Series 4,Women Western,Mast & Harbour,2980.0,1440.73
+PRD_0041,Mast & Harbour Women Western Series 5,Women Western,Mast & Harbour,2140.0,1125.76
+PRD_0042,Mast & Harbour Women Western Series 6,Women Western,Mast & Harbour,870.0,453.89
+PRD_0043,Mango Women Western Series 1,Women Western,Mango,840.0,426.4
+PRD_0044,Mango Women Western Series 2,Women Western,Mango,840.0,444.74
+PRD_0045,Mango Women Western Series 3,Women Western,Mango,2290.0,1183.55
+PRD_0046,Mango Women Western Series 4,Women Western,Mango,2160.0,1165.04
+PRD_0047,Mango Women Western Series 5,Women Western,Mango,2460.0,1167.97
+PRD_0048,Mango Women Western Series 6,Women Western,Mango,2550.0,1218.49
+PRD_0049,Zara Women Western Series 1,Women Western,Zara,2230.0,1136.51
+PRD_0050,Zara Women Western Series 2,Women Western,Zara,1700.0,720.35
+PRD_0051,Zara Women Western Series 3,Women Western,Zara,1690.0,797.32
+PRD_0052,Zara Women Western Series 4,Women Western,Zara,1110.0,529.18
+PRD_0053,Zara Women Western Series 5,Women Western,Zara,1090.0,516.21
+PRD_0054,Zara Women Western Series 6,Women Western,Zara,2080.0,890.97
+PRD_0055,ONLY Women Western Series 1,Women Western,ONLY,2660.0,1140.18
+PRD_0056,ONLY Women Western Series 2,Women Western,ONLY,2540.0,1352.3
+PRD_0057,ONLY Women Western Series 3,Women Western,ONLY,1900.0,953.53
+PRD_0058,ONLY Women Western Series 4,Women Western,ONLY,1180.0,634.75
+PRD_0059,ONLY Women Western Series 5,Women Western,ONLY,2530.0,1330.78
+PRD_0060,ONLY Women Western Series 6,Women Western,ONLY,1400.0,755.12
+PRD_0061,Anouk Women Ethnic Series 1,Women Ethnic,Anouk,3880.0,2094.26
+PRD_0062,Anouk Women Ethnic Series 2,Women Ethnic,Anouk,3390.0,1643.77
+PRD_0063,Anouk Women Ethnic Series 3,Women Ethnic,Anouk,2470.0,1193.67
+PRD_0064,Anouk Women Ethnic Series 4,Women Ethnic,Anouk,2330.0,1015.65
+PRD_0065,Anouk Women Ethnic Series 5,Women Ethnic,Anouk,2590.0,1265.43
+PRD_0066,Anouk Women Ethnic Series 6,Women Ethnic,Anouk,3200.0,1718.2
+PRD_0067,Biba Women Ethnic Series 1,Women Ethnic,Biba,2980.0,1500.06
+PRD_0068,Biba Women Ethnic Series 2,Women Ethnic,Biba,2080.0,975.31
+PRD_0069,Biba Women Ethnic Series 3,Women Ethnic,Biba,4200.0,2138.43
+PRD_0070,Biba Women Ethnic Series 4,Women Ethnic,Biba,4370.0,2300.48
+PRD_0071,Biba Women Ethnic Series 5,Women Ethnic,Biba,3660.0,1845.99
+PRD_0072,Biba Women Ethnic Series 6,Women Ethnic,Biba,4280.0,2048.08
+PRD_0073,W for Woman Women Ethnic Series 1,Women Ethnic,W for Woman,3880.0,1937.5
+PRD_0074,W for Woman Women Ethnic Series 2,Women Ethnic,W for Woman,2670.0,1213.94
+PRD_0075,W for Woman Women Ethnic Series 3,Women Ethnic,W for Woman,1550.0,673.01
+PRD_0076,W for Woman Women Ethnic Series 4,Women Ethnic,W for Woman,1790.0,761.26
+PRD_0077,W for Woman Women Ethnic Series 5,Women Ethnic,W for Woman,4420.0,2156.37
+PRD_0078,W for Woman Women Ethnic Series 6,Women Ethnic,W for Woman,4290.0,2082.52
+PRD_0079,Libas Women Ethnic Series 1,Women Ethnic,Libas,1420.0,780.66
+PRD_0080,Libas Women Ethnic Series 2,Women Ethnic,Libas,4360.0,2190.12
+PRD_0081,Libas Women Ethnic Series 3,Women Ethnic,Libas,3580.0,1581.97
+PRD_0082,Libas Women Ethnic Series 4,Women Ethnic,Libas,3280.0,1704.97
+PRD_0083,Libas Women Ethnic Series 5,Women Ethnic,Libas,1890.0,983.94
+PRD_0084,Libas Women Ethnic Series 6,Women Ethnic,Libas,4470.0,2052.55
+PRD_0085,FabIndia Women Ethnic Series 1,Women Ethnic,FabIndia,2040.0,864.09
+PRD_0086,FabIndia Women Ethnic Series 2,Women Ethnic,FabIndia,2890.0,1484.16
+PRD_0087,FabIndia Women Ethnic Series 3,Women Ethnic,FabIndia,1730.0,802.53
+PRD_0088,FabIndia Women Ethnic Series 4,Women Ethnic,FabIndia,4150.0,1812.07
+PRD_0089,FabIndia Women Ethnic Series 5,Women Ethnic,FabIndia,4360.0,2206.53
+PRD_0090,FabIndia Women Ethnic Series 6,Women Ethnic,FabIndia,2990.0,1388.95
+PRD_0091,Puma Footwear Series 1,Footwear,Puma,2100.0,1134.3
+PRD_0092,Puma Footwear Series 2,Footwear,Puma,2480.0,1348.39
+PRD_0093,Puma Footwear Series 3,Footwear,Puma,2900.0,1287.82
+PRD_0094,Puma Footwear Series 4,Footwear,Puma,2510.0,1080.08
+PRD_0095,Puma Footwear Series 5,Footwear,Puma,5420.0,2495.39
+PRD_0096,Puma Footwear Series 6,Footwear,Puma,5180.0,2567.53
+PRD_0097,Nike Footwear Series 1,Footwear,Nike,3530.0,1817.16
+PRD_0098,Nike Footwear Series 2,Footwear,Nike,5210.0,2362.66
+PRD_0099,Nike Footwear Series 3,Footwear,Nike,4310.0,2160.98
+PRD_0100,Nike Footwear Series 4,Footwear,Nike,4070.0,1991.62
+PRD_0101,Nike Footwear Series 5,Footwear,Nike,3790.0,1915.53
+PRD_0102,Nike Footwear Series 6,Footwear,Nike,2520.0,1317.37
+PRD_0103,Red Tape Footwear Series 1,Footwear,Red Tape,4700.0,2080.28
+PRD_0104,Red Tape Footwear Series 2,Footwear,Red Tape,3200.0,1358.82
+PRD_0105,Red Tape Footwear Series 3,Footwear,Red Tape,5210.0,2582.76
+PRD_0106,Red Tape Footwear Series 4,Footwear,Red Tape,5420.0,2494.8
+PRD_0107,Red Tape Footwear Series 5,Footwear,Red Tape,4910.0,2168.75
+PRD_0108,Red Tape Footwear Series 6,Footwear,Red Tape,3810.0,1772.0
+PRD_0109,HRX Footwear Series 1,Footwear,HRX,4400.0,2379.56
+PRD_0110,HRX Footwear Series 2,Footwear,HRX,5250.0,2658.57
+PRD_0111,HRX Footwear Series 3,Footwear,HRX,4040.0,1978.17
+PRD_0112,HRX Footwear Series 4,Footwear,HRX,4630.0,2498.8
+PRD_0113,HRX Footwear Series 5,Footwear,HRX,2720.0,1169.52
+PRD_0114,HRX Footwear Series 6,Footwear,HRX,3470.0,1715.39
+PRD_0115,Bata Footwear Series 1,Footwear,Bata,1860.0,1014.04
+PRD_0116,Bata Footwear Series 2,Footwear,Bata,3870.0,1833.96
+PRD_0117,Bata Footwear Series 3,Footwear,Bata,2760.0,1317.73
+PRD_0118,Bata Footwear Series 4,Footwear,Bata,1520.0,639.61
+PRD_0119,Bata Footwear Series 5,Footwear,Bata,2250.0,1188.69
+PRD_0120,Bata Footwear Series 6,Footwear,Bata,1960.0,966.26
+PRD_0121,Maybelline Beauty & Grooming Series 1,Beauty & Grooming,Maybelline,790.0,422.4
+PRD_0122,Maybelline Beauty & Grooming Series 2,Beauty & Grooming,Maybelline,720.0,380.6
+PRD_0123,Maybelline Beauty & Grooming Series 3,Beauty & Grooming,Maybelline,1040.0,510.36
+PRD_0124,Maybelline Beauty & Grooming Series 4,Beauty & Grooming,Maybelline,450.0,222.39
+PRD_0125,Maybelline Beauty & Grooming Series 5,Beauty & Grooming,Maybelline,1110.0,474.27
+PRD_0126,Maybelline Beauty & Grooming Series 6,Beauty & Grooming,Maybelline,410.0,181.41
+PRD_0127,Lakme Beauty & Grooming Series 1,Beauty & Grooming,Lakme,810.0,342.35
+PRD_0128,Lakme Beauty & Grooming Series 2,Beauty & Grooming,Lakme,1080.0,529.51
+PRD_0129,Lakme Beauty & Grooming Series 3,Beauty & Grooming,Lakme,330.0,176.41
+PRD_0130,Lakme Beauty & Grooming Series 4,Beauty & Grooming,Lakme,540.0,238.86
+PRD_0131,Lakme Beauty & Grooming Series 5,Beauty & Grooming,Lakme,820.0,431.29
+PRD_0132,Lakme Beauty & Grooming Series 6,Beauty & Grooming,Lakme,760.0,355.44
+PRD_0133,Mamaearth Beauty & Grooming Series 1,Beauty & Grooming,Mamaearth,940.0,482.89
+PRD_0134,Mamaearth Beauty & Grooming Series 2,Beauty & Grooming,Mamaearth,750.0,329.66
+PRD_0135,Mamaearth Beauty & Grooming Series 3,Beauty & Grooming,Mamaearth,800.0,422.36
+PRD_0136,Mamaearth Beauty & Grooming Series 4,Beauty & Grooming,Mamaearth,920.0,388.61
+PRD_0137,Mamaearth Beauty & Grooming Series 5,Beauty & Grooming,Mamaearth,720.0,386.41
+PRD_0138,Mamaearth Beauty & Grooming Series 6,Beauty & Grooming,Mamaearth,940.0,475.93
+PRD_0139,Beardo Beauty & Grooming Series 1,Beauty & Grooming,Beardo,720.0,385.15
+PRD_0140,Beardo Beauty & Grooming Series 2,Beauty & Grooming,Beardo,530.0,289.8
+PRD_0141,Beardo Beauty & Grooming Series 3,Beauty & Grooming,Beardo,1230.0,524.62
+PRD_0142,Beardo Beauty & Grooming Series 4,Beauty & Grooming,Beardo,450.0,228.94
+PRD_0143,Beardo Beauty & Grooming Series 5,Beauty & Grooming,Beardo,790.0,374.12
+PRD_0144,Beardo Beauty & Grooming Series 6,Beauty & Grooming,Beardo,750.0,393.08
+PRD_0145,Minimalist Beauty & Grooming Series 1,Beauty & Grooming,Minimalist,740.0,333.31
+PRD_0146,Minimalist Beauty & Grooming Series 2,Beauty & Grooming,Minimalist,910.0,449.19
+PRD_0147,Minimalist Beauty & Grooming Series 3,Beauty & Grooming,Minimalist,630.0,336.48
+PRD_0148,Minimalist Beauty & Grooming Series 4,Beauty & Grooming,Minimalist,980.0,500.6
+PRD_0149,Minimalist Beauty & Grooming Series 5,Beauty & Grooming,Minimalist,930.0,442.31
+PRD_0150,Minimalist Beauty & Grooming Series 6,Beauty & Grooming,Minimalist,1140.0,558.81
+PRD_0151,Fastrack Accessories Series 1,Accessories,Fastrack,1680.0,729.83
+PRD_0152,Fastrack Accessories Series 2,Accessories,Fastrack,1060.0,543.66
+PRD_0153,Fastrack Accessories Series 3,Accessories,Fastrack,840.0,447.68
+PRD_0154,Fastrack Accessories Series 4,Accessories,Fastrack,1510.0,747.37
+PRD_0155,Fastrack Accessories Series 5,Accessories,Fastrack,1630.0,735.77
+PRD_0156,Fastrack Accessories Series 6,Accessories,Fastrack,2370.0,1266.19
+PRD_0157,Fossil Accessories Series 1,Accessories,Fossil,1850.0,843.02
+PRD_0158,Fossil Accessories Series 2,Accessories,Fossil,790.0,424.73
+PRD_0159,Fossil Accessories Series 3,Accessories,Fossil,1030.0,539.36
+PRD_0160,Fossil Accessories Series 4,Accessories,Fossil,1600.0,769.38
+PRD_0161,Fossil Accessories Series 5,Accessories,Fossil,1760.0,832.47
+PRD_0162,Fossil Accessories Series 6,Accessories,Fossil,1320.0,575.79
+PRD_0163,Wildcraft Accessories Series 1,Accessories,Wildcraft,1570.0,753.97
+PRD_0164,Wildcraft Accessories Series 2,Accessories,Wildcraft,1990.0,860.0
+PRD_0165,Wildcraft Accessories Series 3,Accessories,Wildcraft,540.0,267.06
+PRD_0166,Wildcraft Accessories Series 4,Accessories,Wildcraft,620.0,328.37
+PRD_0167,Wildcraft Accessories Series 5,Accessories,Wildcraft,1450.0,692.53
+PRD_0168,Wildcraft Accessories Series 6,Accessories,Wildcraft,2330.0,1110.87
+PRD_0169,Baggit Accessories Series 1,Accessories,Baggit,1140.0,577.86
+PRD_0170,Baggit Accessories Series 2,Accessories,Baggit,2100.0,1125.32
+PRD_0171,Baggit Accessories Series 3,Accessories,Baggit,1720.0,942.69
+PRD_0172,Baggit Accessories Series 4,Accessories,Baggit,1160.0,512.1
+PRD_0173,Baggit Accessories Series 5,Accessories,Baggit,580.0,263.61
+PRD_0174,Baggit Accessories Series 6,Accessories,Baggit,1810.0,888.77
+PRD_0175,Skybags Accessories Series 1,Accessories,Skybags,2120.0,910.19
+PRD_0176,Skybags Accessories Series 2,Accessories,Skybags,1270.0,615.37
+PRD_0177,Skybags Accessories Series 3,Accessories,Skybags,1860.0,989.85
+PRD_0178,Skybags Accessories Series 4,Accessories,Skybags,2390.0,1295.01
+PRD_0179,Skybags Accessories Series 5,Accessories,Skybags,1810.0,814.33
+PRD_0180,Skybags Accessories Series 6,Accessories,Skybags,1450.0,759.23
