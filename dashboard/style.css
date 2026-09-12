@@ -1,0 +1,62 @@
+/* dashboard/style.css - Myntra Executive Dashboard Styling */
+
+/* Main container and typography */
+.main {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+}
+
+/* Metric Card Containers */
+div[data-testid="stMetric"] {
+    background-color: #F8F9FA;
+    border: 1px solid #E9ECEF;
+    padding: 14px 18px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+div[data-testid="stMetricLabel"] {
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
+    color: #495057 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+div[data-testid="stMetricValue"] {
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+    color: #1A1A1A !important;
+}
+
+/* Myntra Accent Highlights */
+.myntra-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #FF3F6C, #FF527B);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+/* Section Header styling */
+.section-header {
+    border-left: 4px solid #FF3F6C;
+    padding-left: 12px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #212529;
+}
+
+/* Card Callout Boxes */
+.insight-card {
+    background-color: #FFF5F7;
+    border: 1px solid #FFD1DC;
+    border-radius: 8px;
+    padding: 14px;
+    margin-bottom: 16px;
+    color: #2B2D42;
+}
