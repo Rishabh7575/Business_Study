@@ -42,6 +42,7 @@ st.markdown("---")
 
 # Sidebar filters
 st.sidebar.header("Filter Analytics")
+st.sidebar.caption("🚀 Run locally: `streamlit run dashboard/app.py`")
 selected_year = st.sidebar.selectbox("Select Financial Year", ["All", "2024", "2025"])
 selected_tier = st.sidebar.multiselect("Customer City Tier", ["Tier 1", "Tier 2", "Tier 3"], default=["Tier 1", "Tier 2", "Tier 3"])
 selected_payment = st.sidebar.multiselect("Payment Mode", ["UPI", "COD", "Credit Card", "Debit Card"], default=["UPI", "COD", "Credit Card", "Debit Card"])
